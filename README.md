@@ -15,8 +15,7 @@
 
 ### Команда для запуска: 
 
-```
-git clone ...
-cd nedra-test && npm install
-npm run dev
-```
+
+#### git clone ...
+#### cd budget-accounting && npm install
+#### npm start
