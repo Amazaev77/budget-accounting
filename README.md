@@ -17,5 +17,5 @@
 
 
 #### ``` git clone ... ```
-#### cd budget-accounting && npm install
-#### npm start
+#### ``` cd budget-accounting && npm install ```
+#### ``` npm start ```
