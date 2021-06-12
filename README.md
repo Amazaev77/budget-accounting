@@ -15,7 +15,8 @@
 
 ### Команда для запуска: 
 
-
-#### ``` git clone ... ```
-#### ``` cd budget-accounting && npm install ```
-#### ``` npm start ```
+```
+####  git clone ...
+####  cd budget-accounting && npm install
+####  npm start
+```
