@@ -20,3 +20,5 @@
 - cd budget-accounting && npm install
 - npm start
 ```
+
+#### База данных и деплой на Firebase
