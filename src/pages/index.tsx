@@ -1,7 +1,7 @@
 import React, { FC } from 'react'
 import { Route } from 'react-router-dom'
-import ExpensesPage from "./ExpensesPage"
-import CategoriesPage from "./CategoriesPage"
+import ExpensesPage from './ExpensesPage'
+import CategoriesPage from './CategoriesPage'
 import StatisticPage from './StatisticPage'
 
 const Routes: FC = () => {

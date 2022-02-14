@@ -2,7 +2,7 @@ import { Dispatch } from "redux"
 import { CategoriesAction, CategoriesActionTypes } from "../types/categories"
 import axios from "axios"
 
-const api = 'https://budjet-accounting-27efa-default-rtdb.firebaseio.com'
+const api = 'https://budget-1b5bd-default-rtdb.firebaseio.com/'
 
 export const loadCategories = () => {
   return async (dispatch: Dispatch<CategoriesAction>) => {

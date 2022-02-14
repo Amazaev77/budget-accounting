@@ -3,7 +3,7 @@ import { ExpensesAction, ExpensesActionTypes } from "../types/expenses"
 import { ExpenseType } from "../../components/Expenses/Expense"
 import axios from "axios"
 
-const api = 'https://budjet-accounting-27efa-default-rtdb.firebaseio.com'
+const api = 'https://budget-1b5bd-default-rtdb.firebaseio.com/'
 
 export const loadExpenses = () => {
   return async (dispatch: Dispatch<ExpensesAction>) => {
